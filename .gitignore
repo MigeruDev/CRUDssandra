@@ -10,6 +10,8 @@
 
 # production
 /build
+/bucket
+/vscode
 
 # misc
 .DS_Store
